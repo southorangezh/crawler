@@ -1,0 +1,1 @@
+{"code":0,"message":"OK","data":{"pagination":{"page":1,"page_size":1,"total":1},"list":[{"zone_id":"prod-hz","server_url":"https://es-flight-api-cn.djigate.com","ws_url_web":"wss://es-flight-api-cn.djigate.com/duplex/web","zone_name":"中国-杭州","map_engine":"t"}]}}
