@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "source_file": "Cesium-1.116.0-fix-26\\Cesium.js",
+    "chunk_index": 2,
+    "total_chunks": 194,
+    "chunk_size": 3671,
+    "word_count": 800,
+    "model_kwargs": {
+      "model": "text-embedding-3-large",
+      "dimensions": 3072,
+      "encoding_format": "float"
+    },
+    "text_splitter": {
+      "split_by": "word",
+      "chunk_size": 800,
+      "chunk_overlap": 200
+    },
+    "created_at": "2025-12-17T23:57:49.646Z"
+  },
+  "content": "go or sa \",cy:\" ac biz com ekloges gov ltd name net org parliament press pro tm \",do:\" art com edu gob gov mil net org sld web \",dz:\" art asso com edu gov net org pol \",ec:\" com edu fin gov info med mil net org pro \",eg:\" com edu eun gov mil name net org sci \",er:\" com edu gov ind mil net org rochest w \",es:\" com edu gob nom org \",et:\" biz com edu gov info name net org \",fj:\" ac biz com info mil name net org pro \",fk:\" ac co gov net nom org \",fr:\" asso com f gouv nom prd presse tm \",gg:\" co net org \",gh:\" com edu gov mil org \",gn:\" ac com gov net org \",gr:\" com edu gov mil net org \",gt:\" com edu gob ind mil net org \",gu:\" com edu gov net org \",hk:\" com edu gov idv net org \",hu:\" 2000 agrar bolt casino city co erotica erotika film forum games hotel info ingatlan jogasz konyvelo lakas media news org priv reklam sex shop sport suli szex tm tozsde utazas video \",id:\" ac co go mil net or sch web \",il:\" ac co gov idf k12 muni net org \",in:\" ac co edu ernet firm gen gov i ind mil net nic org res \",iq:\" com edu gov i mil net org \",ir:\" ac co dnssec gov i id net org sch \",it:\" edu gov \",je:\" co net org \",jo:\" com edu gov mil name net org sch \",jp:\" ac ad co ed go gr lg ne or \",ke:\" ac co go info me mobi ne or sc \",kh:\" com edu gov mil net org per \",ki:\" biz com de edu gov info mob net org tel \",km:\" asso com coop edu gouv k medecin mil nom notaires pharmaciens presse tm veterinaire \",kn:\" edu gov net org \",kr:\" ac busan chungbuk chungnam co daegu daejeon es gangwon go gwangju gyeongbuk gyeonggi gyeongnam hs incheon jeju jeonbuk jeonnam k kg mil ms ne or pe re sc seoul ulsan \",kw:\" com edu gov net org \",ky:\" com edu gov net org \",kz:\" com edu gov mil net org \",lb:\" com edu gov net org \",lk:\" assn com edu gov grp hotel int ltd net ngo org sch soc web \",lr:\" com edu gov net org \",lv:\" asn com conf edu gov id mil net org \",ly:\" com edu gov id med net org plc sch \",ma:\" ac co gov m net org press \",mc:\" asso tm \",me:\" ac co edu gov its net org priv \",mg:\" com edu gov mil nom org prd tm \",mk:\" com edu gov inf name net org pro \",ml:\" com edu gov net org presse \",mn:\" edu gov org \",mo:\" com edu gov net org \",mt:\" com edu gov net org \",mv:\" aero biz com coop edu gov info int mil museum name net org pro \",mw:\" ac co com coop edu gov int museum net org \",mx:\" com edu gob net org \",my:\" com edu gov mil name net org sch \",nf:\" arts com firm info net other per rec store web \",ng:\" biz com edu gov mil mobi name net org sch \",ni:\" ac co com edu gob mil net nom org \",np:\" com edu gov mil net org \",nr:\" biz com edu gov info net org \",om:\" ac biz co com edu gov med mil museum net org pro sch \",pe:\" com edu gob mil net nom org sld \",ph:\" com edu gov i mil net ngo org \",pk:\" biz com edu fam gob gok gon gop gos gov net org web \",pl:\" art bialystok biz com edu gda gdansk gorzow gov info katowice krakow lodz lublin mil net ngo olsztyn org poznan pwr radom slupsk szczecin torun warszawa waw wroc wroclaw zgora \",pr:\" ac biz com edu est gov info isla name net org pro prof \",ps:\" com edu gov net org plo sec \",pw:\" belau co ed go ne or \",ro:\" arts com firm info nom nt org rec store tm www \",rs:\" ac co edu gov in org \",sb:\" com edu gov net org \",sc:\" com edu gov net org \",sh:\" co com edu gov net nom org \",sl:\" com edu gov net org \",st:\" co com consulado edu embaixada gov mil net org principe saotome store \",sv:\" com edu gob org red \",sz:\" ac co org \",tr:\" av bbs bel biz com dr edu gen gov info k12 name net org pol tel tsk tv web \",tt:\" aero biz cat co com coop edu gov info int jobs mil mobi museum name net org pro tel travel \",tw:\" club com ebiz edu game gov idv mil net org \",mu:\" ac co com gov net or org \",mz:\" ac co edu gov org \",na:\" co com"
+}

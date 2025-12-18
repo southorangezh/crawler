@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-12-17T23:57:53.635Z",
+  "config": {
+    "text_splitter": {
+      "split_by": "word",
+      "chunk_size": 800,
+      "chunk_overlap": 200
+    },
+    "model_kwargs": {
+      "model": "text-embedding-3-large",
+      "dimensions": 3072,
+      "encoding_format": "float"
+    },
+    "inputDir": "C:\\Users\\Administrator\\Desktop\\deep-wiki-open安装说明\\node爬取数据到文件目录\\downloads\\sources",
+    "outputDir": "C:\\Users\\Administrator\\Desktop\\deep-wiki-open安装说明\\node爬取数据到文件目录\\downloads\\chunks",
+    "supportedExtensions": [
+      ".js",
+      ".css",
+      ".json",
+      ".html",
+      ".md",
+      ".txt",
+      ".ts",
+      ".tsx",
+      ".jsx"
+    ],
+    "maxFileSize": 104857600
+  },
+  "stats": {
+    "total": 78,
+    "success": 77,
+    "failed": 1,
+    "totalChunks": 4543
+  },
+  "output_dir": "C:\\Users\\Administrator\\Desktop\\deep-wiki-open安装说明\\node爬取数据到文件目录\\downloads\\chunks"
+}
